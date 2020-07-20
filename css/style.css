@@ -1,4 +1,12 @@
 .background {
-   font-size: 100px;
+    font-size: 100px;
     background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.opacity {
+    opacity: 40%;
 }
